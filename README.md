@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Munna</h1>
-<h3 align="center">A passionate web design & developer from angladesh</h3>
+<h3 align="center">A passionate web design & developer from bangladesh</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
